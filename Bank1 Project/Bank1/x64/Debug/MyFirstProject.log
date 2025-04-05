@@ -1,0 +1,6 @@
+﻿  MyFirstProject.cpp
+C:\Users\abdon\OneDrive\Desktop\All\New folder\Programming\Fendamentl\MyFirstProject\MyFirstProject\MyFirstProject.cpp(34,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdon\OneDrive\Desktop\All\New folder\Programming\Fendamentl\MyFirstProject\MyFirstProject\MyFirstProject.cpp(362,1): warning C4715: 'DeleteUserFromFile': not all control paths return a value
+C:\Users\abdon\OneDrive\Desktop\All\New folder\Programming\Fendamentl\MyFirstProject\MyFirstProject\MyFirstProject.cpp(446,1): warning C4715: 'UpdateUserinFile': not all control paths return a value
+C:\Users\abdon\OneDrive\Desktop\All\New folder\Programming\Fendamentl\MyFirstProject\MyFirstProject\MyFirstProject.cpp(530,1): warning C4715: 'CheckUserSel': not all control paths return a value
+  MyFirstProject.vcxproj -> C:\Users\abdon\OneDrive\Desktop\All\New folder\Programming\Fendamentl\MyFirstProject\x64\Debug\MyFirstProject.exe

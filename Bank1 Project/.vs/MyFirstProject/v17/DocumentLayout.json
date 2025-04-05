@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdon\\OneDrive\\Desktop\\All\\New folder\\Programming\\Fendamentl\\MyFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0912638-EBD9-4ABD-BBBF-8C96C676A6C6}|MyFirstProject\\MyFirstProject.vcxproj|C:\\Users\\abdon\\OneDrive\\Desktop\\All\\New folder\\Programming\\Fendamentl\\MyFirstProject\\MyFirstProject\\Bank1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0912638-EBD9-4ABD-BBBF-8C96C676A6C6}|MyFirstProject\\MyFirstProject.vcxproj|solutionrelative:MyFirstProject\\Bank1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank1.cpp",
+              "DocumentMoniker": "C:\\Users\\abdon\\OneDrive\\Desktop\\All\\New folder\\Programming\\Fendamentl\\MyFirstProject\\MyFirstProject\\Bank1.cpp",
+              "RelativeDocumentMoniker": "MyFirstProject\\Bank1.cpp",
+              "ToolTip": "C:\\Users\\abdon\\OneDrive\\Desktop\\All\\New folder\\Programming\\Fendamentl\\MyFirstProject\\MyFirstProject\\Bank1.cpp",
+              "RelativeToolTip": "MyFirstProject\\Bank1.cpp",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAuwE4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T05:22:56.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
