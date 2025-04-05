@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdon\\OneDrive\\Desktop\\All\\New folder\\Programming\\Fendamentl\\Bank1 Extention Project\\Bank1 Extention Projetc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888B5C51-04AF-4741-BE03-893EB1B6E617}|Bank1 Extention Projetc\\Bank1 Extention Projetc.vcxproj|C:\\Users\\abdon\\OneDrive\\Desktop\\All\\New folder\\Programming\\Fendamentl\\Bank1 Extention Project\\Bank1 Extention Projetc\\Bank1 Extention Projetc\\Bank1 Extention Projetc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{888B5C51-04AF-4741-BE03-893EB1B6E617}|Bank1 Extention Projetc\\Bank1 Extention Projetc.vcxproj|solutionrelative:Bank1 Extention Projetc\\Bank1 Extention Projetc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank1 Extention Projetc.cpp",
+              "DocumentMoniker": "C:\\Users\\abdon\\OneDrive\\Desktop\\All\\New folder\\Programming\\Fendamentl\\Bank1 Extention Project\\Bank1 Extention Projetc\\Bank1 Extention Projetc\\Bank1 Extention Projetc.cpp",
+              "RelativeDocumentMoniker": "Bank1 Extention Projetc\\Bank1 Extention Projetc.cpp",
+              "ToolTip": "C:\\Users\\abdon\\OneDrive\\Desktop\\All\\New folder\\Programming\\Fendamentl\\Bank1 Extention Project\\Bank1 Extention Projetc\\Bank1 Extention Projetc\\Bank1 Extention Projetc.cpp",
+              "RelativeToolTip": "Bank1 Extention Projetc\\Bank1 Extention Projetc.cpp",
+              "ViewState": "AgIAAAkCAAAAAAAAAAAAABgCAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T05:48:05.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
